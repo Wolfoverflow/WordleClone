@@ -12,4 +12,3 @@ Happy rage quitting!
 # TODO:
 Make the GUI
 Create more test cases for edges
-Prevent doubleups like in Kilos and Lilos
